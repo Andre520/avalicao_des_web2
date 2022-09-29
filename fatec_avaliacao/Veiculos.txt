@@ -1,0 +1,7 @@
+Modelo do veiculo:monza  | Ano: 2016 | Cor: azul
+
+Modelo do veiculo:  | Ano: 2016 | Cor: 
+Modelo do veiculo:  | Ano:  | Cor: 
+Modelo do veiculo:  | Ano: 2020 | Cor: azul
+Modelo do veiculo:  | Ano: 2056 | Cor: preto
+Modelo do veiculo: vv | Ano: 00 | Cor: pp
